@@ -5,9 +5,10 @@
 
 - TensorFlow
 - Scikit
-- Pillowt
+- PyQT
 - Matlabplot.lib
 
+    
 ## Getting Started
 
 To get started:
